@@ -1,0 +1,99 @@
+body{
+    background-color: black;
+}
+
+header, footer{
+    text-align: center;
+    color: white;
+}
+main#filmes, h2{
+    color: red;
+    background-color: black;
+}
+
+footer{
+    font-size: 1.5em;
+}
+
+main{
+    border: 1px solid black;
+    width: 96vw;
+    height: 200vh;
+    margin: auto;
+    padding: 1em;
+    background-color: cornsilk;
+    border-radius: 15px;
+
+}
+div#div-1{
+    text-align: center;
+    letter-spacing: 1px;
+    border: 1px solid black;
+    font-size: 30px;
+}
+
+
+div#div-2{
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    flex-wrap: wrap;
+    margin: 30px;
+
+}
+
+
+
+img{
+    width: 40em;
+    margin: 20px auto;
+    display: block;
+
+}
+
+div.box li{
+    margin-bottom: 10px;
+}
+
+div.box-1{
+    background-color: red;
+    font-size: 10px;
+    height: 580px;
+    width: 400px;
+    
+
+}
+
+div.box-2{
+    background-color:red;
+    font-size: 10px;
+    height: 580px;
+    width: 400px;
+
+}
+
+div.box-3{
+    background-color:red;
+    font-size: 10px;
+    height: 580px;
+    width: 400px;
+
+}
+
+div.box-4{
+    background-color:red;
+    font-size: 10px;
+    height: 580px;
+    width: 400px;
+
+}
+
+h4{
+    font-size: 30px;
+    margin: auto;
+}
+
+li{
+    font-size: 20px;
+}
+
